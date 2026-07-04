@@ -1,17 +1,17 @@
-# Hi, I'm Arshia 🚀
+# Hi, I'm Arshia 
 
 A 20-year-old **Computer Engineering Student** at **Amirkabir University of Technology (Tehran Polytechnic)**, currently in my 4th semester. I specialize in building end-to-end web applications, leveraging AI to develop robust backend architectures and dynamic user interfaces.
 ---
 
-### 💻 About Me
-- 🎓 **Education:** Pursuing B.Sc. in Computer Engineering @ Amirkabir University of Technology.
-- ⚙️ **Focus:** Backend Architecture, Scalability, and AI Engineering.
-- 🧠 **Current Learning:** Deepening Python advanced concepts and exploring LangChain for AI-driven apps.
-- ⚡ **Fun Fact:** I treat AI as a high-speed development co-pilot, always digging deep into *why* and *how* the code works under the hood.
+###  About Me
+-  **Education:** Pursuing B.Sc. in Computer Engineering @ Amirkabir University of Technology.
+-  **Focus:** Backend Architecture, Scalability, and AI Engineering.
+-  **Current Learning:** Deepening Python advanced concepts and exploring LangChain for AI-driven apps.
+-  **Fun Fact:** I treat AI as a high-speed development co-pilot, always digging deep into *why* and *how* the code works under the hood.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+###  Tech Stack & Capabilities
 - **Backend Frameworks:** Django, Django REST Framework (DRF)
 - **Frontend Development (AI-Assisted):** React, JavaScript, HTML5/CSS3, Tailwind CSS
 - **Caching & Async Processing:** Redis, Celery
@@ -20,7 +20,7 @@ A 20-year-old **Computer Engineering Student** at **Amirkabir University of Tech
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 📂 **Cinema Booking Platform(https://github.com/ArshiaaTN/cinestack)**
 > A high-performance cinema booking backend engineered to handle high concurrency. 
@@ -36,7 +36,7 @@ A 20-year-old **Computer Engineering Student** at **Amirkabir University of Tech
 
 ---
 
-### 📈 GitHub Analytics
+###  GitHub Analytics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ArshiaaTN&show_icons=true&theme=dracula&hide_border=true" alt="Arshia's GitHub Stats" height="180M" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaaTN&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180M" />
