@@ -1,6 +1,6 @@
 # Hi, I'm Arshia 🚀
 
-A 19-year-old **Computer Engineering Student** at **Amirkabir University of Technology (Tehran Polytechnic)**, currently in my 4th semester. I specialize in building end-to-end web applications, leveraging AI to develop robust backend architectures and dynamic user interfaces.
+A 20-year-old **Computer Engineering Student** at **Amirkabir University of Technology (Tehran Polytechnic)**, currently in my 4th semester. I specialize in building end-to-end web applications, leveraging AI to develop robust backend architectures and dynamic user interfaces.
 ---
 
 ### 💻 About Me
