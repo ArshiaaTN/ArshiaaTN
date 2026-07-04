@@ -6,7 +6,6 @@ A 20-year-old **Computer Engineering Student** at **Amirkabir University of Tech
 ###  About Me
 -  **Education:** Pursuing B.Sc. in Computer Engineering @ Amirkabir University of Technology.
 -  **Focus:** Backend Architecture, Scalability, and AI Engineering.
--  **Current Learning:** Deepening Python advanced concepts and exploring LangChain for AI-driven apps.
 -  **Fun Fact:** I treat AI as a high-speed development co-pilot, always digging deep into *why* and *how* the code works under the hood.
 
 ---
