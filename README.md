@@ -37,5 +37,5 @@ A 20-year-old **Computer Engineering Student** at **Amirkabir University of Tech
 
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** https://www.linkedin.com/in/arshia-tn-282a4b41b/
 - **Email:** arshiatn006@gmail.com
