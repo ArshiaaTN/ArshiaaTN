@@ -35,11 +35,10 @@ A 20-year-old **Computer Engineering Student** at **Amirkabir University of Tech
 
 ---
 
-###  GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiaaTN&show_icons=true&theme=dracula&hide_border=true" alt="Arshia's GitHub Stats" height="180M" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaaTN&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180M" />
-</p>
+---
+
+### GitHub Activity
+![Arshia's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ArshiaaTN&theme=dracula&hide_border=true)
 
 ---
 
